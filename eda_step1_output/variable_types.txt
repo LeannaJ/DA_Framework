@@ -1,0 +1,11 @@
+Variable Types:
+UserID: categorical
+SessionCount: categorical_numeric
+PctSessionPurchase: numerical
+ClicksPerSession: categorical_numeric
+ItemsClickedPerSession: categorical_numeric
+AvgTimePerClick: numerical
+AvgTimePerSession: numerical
+AvgPriceClicked: numerical
+PctSessionClickDiscount: numerical
+PctSessionPurchaseDiscount: numerical

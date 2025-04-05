@@ -1,0 +1,64 @@
+Suggested Treatments for Zero Values:
+
+SessionCount:
+Current State: Zeros: 5016 (66.44%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+PctSessionPurchase:
+Current State: Zeros: 4617 (61.15%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+ClicksPerSession:
+Current State: Zeros: 4552 (60.29%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+ItemsClickedPerSession:
+Current State: Zeros: 4613 (61.10%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+AvgTimePerClick:
+Current State: Zeros: 4836 (64.05%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+AvgTimePerSession:
+Current State: Zeros: 4771 (63.19%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+AvgPriceClicked:
+Current State: Zeros: 4183 (55.40%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed
+
+PctSessionClickDiscount:
+Current State: Zeros: 3083 (40.83%)
+Suggested Treatments:
+- 1. Investigate business context of zero values
+- 2. Consider median imputation if zeros represent missing values
+- 3. Create binary flag for zero/non-zero values
+
+PctSessionPurchaseDiscount:
+Current State: Zeros: 4883 (64.68%)
+Suggested Treatments:
+- 1. Consider removing these users from analysis if they represent inactive accounts
+- 2. Create a separate category for inactive users
+- 3. Investigate if these are missing values that should be imputed

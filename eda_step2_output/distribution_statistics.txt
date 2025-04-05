@@ -1,0 +1,73 @@
+Distribution Statistics:
+
+SessionCount:
+Skewness: 1.67
+Kurtosis: 1.26
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.40
+Median: 0.00
+Standard Deviation: 0.73
+
+PctSessionPurchase:
+Skewness: 1.14
+Kurtosis: -0.41
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.25
+Median: 0.00
+Standard Deviation: 0.38
+
+ClicksPerSession:
+Skewness: 1.80
+Kurtosis: 1.95
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.40
+Median: 0.00
+Standard Deviation: 0.71
+
+ItemsClickedPerSession:
+Skewness: 1.80
+Kurtosis: 1.98
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.40
+Median: 0.00
+Standard Deviation: 0.71
+
+AvgTimePerClick:
+Skewness: 1.64
+Kurtosis: 1.18
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.41
+Median: 0.00
+Standard Deviation: 0.72
+
+AvgTimePerSession:
+Skewness: 1.80
+Kurtosis: 1.90
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.40
+Median: 0.00
+Standard Deviation: 0.73
+
+AvgPriceClicked:
+Skewness: 1.85
+Kurtosis: 2.43
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.39
+Median: 0.00
+Standard Deviation: 0.66
+
+PctSessionClickDiscount:
+Skewness: 0.11
+Kurtosis: -1.90
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.41
+Median: 0.31
+Standard Deviation: 0.41
+
+PctSessionPurchaseDiscount:
+Skewness: 1.19
+Kurtosis: -0.36
+Shapiro-Wilk p-value: 0.0000
+Mean: 0.25
+Median: 0.00
+Standard Deviation: 0.39

@@ -1,0 +1,176 @@
+Correlation Analysis Results:
+
+Significant Correlations:
+
+Pearson Correlations:
+- SessionCount vs SessionCount_log: r = 0.991 (p = 0.0000)
+- PctSessionPurchase vs PctSessionPurchaseDiscount: r = 0.736 (p = 0.0018)
+- ClicksPerSession vs ItemsClickedPerSession: r = 0.859 (p = 0.0000)
+- ClicksPerSession vs AvgTimePerSession: r = 0.631 (p = 0.0117)
+- ClicksPerSession vs ClicksPerSession_log: r = 0.989 (p = 0.0000)
+- ClicksPerSession vs ItemsClickedPerSession_log: r = 0.848 (p = 0.0001)
+- ClicksPerSession vs AvgTimePerSession_log: r = 0.633 (p = 0.0113)
+- ItemsClickedPerSession vs AvgTimePerSession: r = 0.529 (p = 0.0426)
+- ItemsClickedPerSession vs ClicksPerSession_log: r = 0.857 (p = 0.0000)
+- ItemsClickedPerSession vs ItemsClickedPerSession_log: r = 0.988 (p = 0.0000)
+- ItemsClickedPerSession vs AvgTimePerSession_log: r = 0.535 (p = 0.0398)
+- AvgTimePerClick vs AvgTimePerSession: r = 0.604 (p = 0.0172)
+- AvgTimePerClick vs AvgTimePerClick_log: r = 0.991 (p = 0.0000)
+- AvgTimePerClick vs AvgTimePerSession_log: r = 0.619 (p = 0.0139)
+- AvgTimePerSession vs ClicksPerSession_log: r = 0.633 (p = 0.0113)
+- AvgTimePerSession vs ItemsClickedPerSession_log: r = 0.532 (p = 0.0413)
+- AvgTimePerSession vs AvgTimePerClick_log: r = 0.606 (p = 0.0167)
+- AvgTimePerSession vs AvgTimePerSession_log: r = 0.989 (p = 0.0000)
+- AvgPriceClicked vs AvgPriceClicked_log: r = 0.986 (p = 0.0000)
+- ClicksPerSession_log vs ItemsClickedPerSession_log: r = 0.861 (p = 0.0000)
+- ClicksPerSession_log vs AvgTimePerSession_log: r = 0.641 (p = 0.0100)
+- ItemsClickedPerSession_log vs AvgTimePerSession_log: r = 0.542 (p = 0.0367)
+- AvgTimePerClick_log vs AvgTimePerSession_log: r = 0.625 (p = 0.0127)
+
+Spearman Correlations:
+- SessionCount vs PctSessionPurchase: r = -0.338 (p = 0.0058)
+- SessionCount vs AvgTimePerClick: r = 0.148 (p = 0.0142)
+- SessionCount vs PctSessionClickDiscount: r = -0.296 (p = 0.0019)
+- SessionCount vs PctSessionPurchaseDiscount: r = -0.252 (p = 0.0036)
+- SessionCount vs SessionCount_log: r = 1.000 (p = 0.0000)
+- SessionCount vs AvgTimePerClick_log: r = 0.148 (p = 0.0142)
+- PctSessionPurchase vs ClicksPerSession: r = 0.219 (p = 0.0026)
+- PctSessionPurchase vs ItemsClickedPerSession: r = 0.168 (p = 0.0036)
+- PctSessionPurchase vs PctSessionClickDiscount: r = 0.185 (p = 0.0001)
+- PctSessionPurchase vs PctSessionPurchaseDiscount: r = 0.703 (p = 0.0000)
+- PctSessionPurchase vs SessionCount_log: r = -0.338 (p = 0.0058)
+- PctSessionPurchase vs ClicksPerSession_log: r = 0.219 (p = 0.0026)
+- PctSessionPurchase vs ItemsClickedPerSession_log: r = 0.168 (p = 0.0036)
+- ClicksPerSession vs ItemsClickedPerSession: r = 0.831 (p = 0.0000)
+- ClicksPerSession vs AvgTimePerSession: r = 0.642 (p = 0.0122)
+- ClicksPerSession vs PctSessionClickDiscount: r = 0.167 (p = 0.0210)
+- ClicksPerSession vs PctSessionPurchaseDiscount: r = 0.240 (p = 0.0082)
+- ClicksPerSession vs ClicksPerSession_log: r = 1.000 (p = 0.0000)
+- ClicksPerSession vs ItemsClickedPerSession_log: r = 0.831 (p = 0.0000)
+- ClicksPerSession vs AvgTimePerSession_log: r = 0.642 (p = 0.0122)
+- ItemsClickedPerSession vs AvgTimePerSession: r = 0.544 (p = 0.0470)
+- ItemsClickedPerSession vs PctSessionClickDiscount: r = 0.200 (p = 0.0020)
+- ItemsClickedPerSession vs PctSessionPurchaseDiscount: r = 0.217 (p = 0.0058)
+- ItemsClickedPerSession vs ClicksPerSession_log: r = 0.831 (p = 0.0000)
+- ItemsClickedPerSession vs ItemsClickedPerSession_log: r = 1.000 (p = 0.0000)
+- ItemsClickedPerSession vs AvgTimePerSession_log: r = 0.544 (p = 0.0470)
+- AvgTimePerClick vs AvgTimePerSession: r = 0.652 (p = 0.0000)
+- AvgTimePerClick vs SessionCount_log: r = 0.148 (p = 0.0142)
+- AvgTimePerClick vs AvgTimePerClick_log: r = 1.000 (p = 0.0000)
+- AvgTimePerClick vs AvgTimePerSession_log: r = 0.652 (p = 0.0000)
+- AvgTimePerSession vs ClicksPerSession_log: r = 0.642 (p = 0.0122)
+- AvgTimePerSession vs ItemsClickedPerSession_log: r = 0.544 (p = 0.0470)
+- AvgTimePerSession vs AvgTimePerClick_log: r = 0.652 (p = 0.0000)
+- AvgTimePerSession vs AvgTimePerSession_log: r = 1.000 (p = 0.0000)
+- AvgPriceClicked vs AvgPriceClicked_log: r = 1.000 (p = 0.0000)
+- PctSessionClickDiscount vs PctSessionPurchaseDiscount: r = 0.318 (p = 0.0000)
+- PctSessionClickDiscount vs SessionCount_log: r = -0.296 (p = 0.0019)
+- PctSessionClickDiscount vs ClicksPerSession_log: r = 0.167 (p = 0.0210)
+- PctSessionClickDiscount vs ItemsClickedPerSession_log: r = 0.200 (p = 0.0020)
+- PctSessionPurchaseDiscount vs SessionCount_log: r = -0.252 (p = 0.0036)
+- PctSessionPurchaseDiscount vs ClicksPerSession_log: r = 0.240 (p = 0.0082)
+- PctSessionPurchaseDiscount vs ItemsClickedPerSession_log: r = 0.217 (p = 0.0058)
+- SessionCount_log vs AvgTimePerClick_log: r = 0.148 (p = 0.0142)
+- ClicksPerSession_log vs ItemsClickedPerSession_log: r = 0.831 (p = 0.0000)
+- ClicksPerSession_log vs AvgTimePerSession_log: r = 0.642 (p = 0.0122)
+- ItemsClickedPerSession_log vs AvgTimePerSession_log: r = 0.544 (p = 0.0470)
+- AvgTimePerClick_log vs AvgTimePerSession_log: r = 0.652 (p = 0.0000)
+
+Kendall Correlations:
+- SessionCount vs PctSessionPurchase: r = -0.298 (p = 0.0022)
+- SessionCount vs AvgTimePerClick: r = 0.128 (p = 0.0311)
+- SessionCount vs AvgPriceClicked: r = -0.015 (p = 0.0312)
+- SessionCount vs PctSessionClickDiscount: r = -0.258 (p = 0.0031)
+- SessionCount vs PctSessionPurchaseDiscount: r = -0.227 (p = 0.0016)
+- SessionCount vs SessionCount_log: r = 1.000 (p = 0.0000)
+- SessionCount vs AvgTimePerClick_log: r = 0.128 (p = 0.0311)
+- SessionCount vs AvgPriceClicked_log: r = -0.015 (p = 0.0309)
+- PctSessionPurchase vs ClicksPerSession: r = 0.188 (p = 0.0022)
+- PctSessionPurchase vs ItemsClickedPerSession: r = 0.145 (p = 0.0059)
+- PctSessionPurchase vs PctSessionClickDiscount: r = 0.160 (p = 0.0005)
+- PctSessionPurchase vs PctSessionPurchaseDiscount: r = 0.654 (p = 0.0000)
+- PctSessionPurchase vs SessionCount_log: r = -0.298 (p = 0.0022)
+- PctSessionPurchase vs ClicksPerSession_log: r = 0.188 (p = 0.0022)
+- PctSessionPurchase vs ItemsClickedPerSession_log: r = 0.145 (p = 0.0058)
+- ClicksPerSession vs ItemsClickedPerSession: r = 0.746 (p = 0.0000)
+- ClicksPerSession vs AvgTimePerSession: r = 0.550 (p = 0.0183)
+- ClicksPerSession vs PctSessionClickDiscount: r = 0.144 (p = 0.0312)
+- ClicksPerSession vs PctSessionPurchaseDiscount: r = 0.208 (p = 0.0031)
+- ClicksPerSession vs ClicksPerSession_log: r = 1.000 (p = 0.0000)
+- ClicksPerSession vs ItemsClickedPerSession_log: r = 0.746 (p = 0.0000)
+- ClicksPerSession vs AvgTimePerSession_log: r = 0.550 (p = 0.0183)
+- ItemsClickedPerSession vs PctSessionClickDiscount: r = 0.174 (p = 0.0044)
+- ItemsClickedPerSession vs PctSessionPurchaseDiscount: r = 0.189 (p = 0.0070)
+- ItemsClickedPerSession vs ClicksPerSession_log: r = 0.746 (p = 0.0000)
+- ItemsClickedPerSession vs ItemsClickedPerSession_log: r = 1.000 (p = 0.0000)
+- AvgTimePerClick vs AvgTimePerSession: r = 0.562 (p = 0.0000)
+- AvgTimePerClick vs SessionCount_log: r = 0.128 (p = 0.0315)
+- AvgTimePerClick vs AvgTimePerClick_log: r = 1.000 (p = 0.0000)
+- AvgTimePerClick vs AvgTimePerSession_log: r = 0.562 (p = 0.0000)
+- AvgTimePerSession vs ClicksPerSession_log: r = 0.550 (p = 0.0186)
+- AvgTimePerSession vs AvgTimePerClick_log: r = 0.562 (p = 0.0000)
+- AvgTimePerSession vs AvgTimePerSession_log: r = 1.000 (p = 0.0000)
+- AvgPriceClicked vs SessionCount_log: r = -0.015 (p = 0.0317)
+- AvgPriceClicked vs AvgPriceClicked_log: r = 1.000 (p = 0.0000)
+- PctSessionClickDiscount vs PctSessionPurchaseDiscount: r = 0.285 (p = 0.0002)
+- PctSessionClickDiscount vs SessionCount_log: r = -0.258 (p = 0.0032)
+- PctSessionClickDiscount vs ClicksPerSession_log: r = 0.144 (p = 0.0317)
+- PctSessionClickDiscount vs ItemsClickedPerSession_log: r = 0.174 (p = 0.0043)
+- PctSessionPurchaseDiscount vs SessionCount_log: r = -0.227 (p = 0.0016)
+- PctSessionPurchaseDiscount vs ClicksPerSession_log: r = 0.208 (p = 0.0032)
+- PctSessionPurchaseDiscount vs ItemsClickedPerSession_log: r = 0.189 (p = 0.0079)
+- SessionCount_log vs AvgTimePerClick_log: r = 0.128 (p = 0.0315)
+- SessionCount_log vs AvgPriceClicked_log: r = -0.015 (p = 0.0312)
+- ClicksPerSession_log vs ItemsClickedPerSession_log: r = 0.746 (p = 0.0000)
+- ClicksPerSession_log vs AvgTimePerSession_log: r = 0.550 (p = 0.0186)
+- AvgTimePerClick_log vs AvgTimePerSession_log: r = 0.562 (p = 0.0000)
+
+VIF Analysis:
+                       Feature         VIF
+0                 SessionCount   75.369090
+1           PctSessionPurchase    3.092751
+2             ClicksPerSession   93.287894
+3       ItemsClickedPerSession   88.179704
+4              AvgTimePerClick   81.717914
+5            AvgTimePerSession   67.512401
+6              AvgPriceClicked   47.545536
+7      PctSessionClickDiscount    1.970816
+8   PctSessionPurchaseDiscount    3.306974
+9             SessionCount_log   77.673474
+10        ClicksPerSession_log  100.080067
+11  ItemsClickedPerSession_log   93.135097
+12         AvgTimePerClick_log   86.350402
+13       AvgTimePerSession_log   76.942390
+14         AvgPriceClicked_log   49.903908
+
+Feature Engineering Decisions:
+
+Features Dropped:
+- SessionCount_log
+- PctSessionPurchaseDiscount
+- ClicksPerSession
+- ClicksPerSession_log
+- ItemsClickedPerSession_log
+- AvgTimePerClick_log
+- AvgTimePerSession_log
+- AvgPriceClicked_log
+
+Interaction Terms Created:
+- AvgTimePerClick × AvgPriceClicked (correlation: -0.018)
+- ItemsClickedPerSession × AvgPriceClicked (correlation: -0.022)
+- SessionCount × PctSessionPurchase (correlation: -0.303)
+- AvgTimePerSession × PctSessionPurchase (correlation: 0.162)
+
+Features with High VIF (> 5):
+- SessionCount: VIF = 75.37
+- ClicksPerSession: VIF = 93.29
+- ItemsClickedPerSession: VIF = 88.18
+- AvgTimePerClick: VIF = 81.72
+- AvgTimePerSession: VIF = 67.51
+- AvgPriceClicked: VIF = 47.55
+- SessionCount_log: VIF = 77.67
+- ClicksPerSession_log: VIF = 100.08
+- ItemsClickedPerSession_log: VIF = 93.14
+- AvgTimePerClick_log: VIF = 86.35
+- AvgTimePerSession_log: VIF = 76.94
+- AvgPriceClicked_log: VIF = 49.90

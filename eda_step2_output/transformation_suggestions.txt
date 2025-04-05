@@ -1,0 +1,61 @@
+Transformation Suggestions:
+
+SessionCount:
+Current Distribution: highly skewed
+Skewness: 1.67
+Kurtosis: 1.26
+Suggested Transformations:
+- Log transformation (log(x + 1))
+
+PctSessionPurchase:
+Current Distribution: normal
+Skewness: 1.14
+Kurtosis: -0.41
+Suggested Transformations:
+
+ClicksPerSession:
+Current Distribution: highly skewed
+Skewness: 1.80
+Kurtosis: 1.95
+Suggested Transformations:
+- Log transformation (log(x + 1))
+
+ItemsClickedPerSession:
+Current Distribution: highly skewed
+Skewness: 1.80
+Kurtosis: 1.98
+Suggested Transformations:
+- Log transformation (log(x + 1))
+
+AvgTimePerClick:
+Current Distribution: highly skewed
+Skewness: 1.64
+Kurtosis: 1.18
+Suggested Transformations:
+- Log transformation (log(x + 1))
+
+AvgTimePerSession:
+Current Distribution: highly skewed
+Skewness: 1.80
+Kurtosis: 1.90
+Suggested Transformations:
+- Log transformation (log(x + 1))
+
+AvgPriceClicked:
+Current Distribution: highly skewed
+Skewness: 1.85
+Kurtosis: 2.43
+Suggested Transformations:
+- Log transformation (log(x + 1))
+
+PctSessionClickDiscount:
+Current Distribution: normal
+Skewness: 0.11
+Kurtosis: -1.90
+Suggested Transformations:
+
+PctSessionPurchaseDiscount:
+Current Distribution: normal
+Skewness: 1.19
+Kurtosis: -0.36
+Suggested Transformations:

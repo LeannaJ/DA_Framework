@@ -1,0 +1,88 @@
+Visual Analysis Summary
+======================
+
+1. Segment Sizes:
+
+Purchase Segments:
+- Low Purchase Rate: 4617 customers (61.2%)
+- High Purchase Rate: 2212 customers (29.3%)
+- Medium Purchase Rate: 721 customers (9.5%)
+
+Engagement Segments:
+- Low Engagement: 5016 customers (66.4%)
+- High Engagement: 2050 customers (27.2%)
+- Medium Engagement: 484 customers (6.4%)
+
+Price Segments:
+- Low Price Range: 4183 customers (55.4%)
+- High Price Range: 2492 customers (33.0%)
+- Medium Price Range: 875 customers (11.6%)
+
+2. Key Metrics by Segment:
+
+Purchase Segment Metrics:
+
+AvgTimePerSession:
+- Low Purchase Rate: 0.31 (±0.63)
+- Medium Purchase Rate: 0.47 (±0.76)
+- High Purchase Rate: 0.58 (±0.87)
+
+ItemsClickedPerSession:
+- Low Purchase Rate: 0.30 (±0.61)
+- Medium Purchase Rate: 0.45 (±0.72)
+- High Purchase Rate: 0.59 (±0.85)
+
+PctSessionClickDiscount:
+- Low Purchase Rate: 0.36 (±0.39)
+- Medium Purchase Rate: 0.34 (±0.40)
+- High Purchase Rate: 0.54 (±0.40)
+
+Engagement Segment Metrics:
+
+AvgTimePerSession:
+- Low Engagement: 0.41 (±0.77)
+- Medium Engagement: 0.40 (±0.70)
+- High Engagement: 0.38 (±0.63)
+
+ItemsClickedPerSession:
+- Low Engagement: 0.43 (±0.76)
+- Medium Engagement: 0.33 (±0.61)
+- High Engagement: 0.34 (±0.59)
+
+PctSessionClickDiscount:
+- Low Engagement: 0.50 (±0.42)
+- Medium Engagement: 0.31 (±0.36)
+- High Engagement: 0.21 (±0.28)
+
+Price Segment Metrics:
+
+AvgTimePerSession:
+- Low Price Range: 0.39 (±0.72)
+- Medium Price Range: 0.47 (±0.77)
+- High Price Range: 0.40 (±0.74)
+
+ItemsClickedPerSession:
+- Low Price Range: 0.37 (±0.69)
+- Medium Price Range: 0.52 (±0.79)
+- High Price Range: 0.41 (±0.71)
+
+PctSessionClickDiscount:
+- Low Price Range: 0.40 (±0.41)
+- Medium Price Range: 0.41 (±0.40)
+- High Price Range: 0.43 (±0.40)
+
+3. Segment Interactions:
+
+Purchase Behavior vs Engagement Level (row percentages):
+engagement_segment    Low Engagement  Medium Engagement  High Engagement
+purchase_segment                                                        
+Low Purchase Rate               55.5                8.0             36.5
+Medium Purchase Rate            71.7                0.0             28.3
+High Purchase Rate              87.5                5.2              7.3
+
+Purchase Behavior vs Price Sensitivity (row percentages):
+price_segment         Low Price Range  Medium Price Range  High Price Range
+purchase_segment                                                           
+Low Purchase Rate                52.1                11.8              36.1
+Medium Purchase Rate             57.7                10.8              31.5
+High Purchase Rate               61.5                11.4              27.1

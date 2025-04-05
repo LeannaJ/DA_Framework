@@ -1,0 +1,31 @@
+Potentially Unusual Variables:
+
+SessionCount:
+Type: categorical_numeric
+Number of unique values: 9
+Top 5 value counts:
+0.0: 5016
+2.198925803826522: 763
+0.2063460542897751: 484
+0.491000304223596: 376
+0.7756545541574169: 303
+
+ClicksPerSession:
+Type: categorical_numeric
+Number of unique values: 415
+Top 5 value counts:
+0.0: 4552
+2.371591175000057: 462
+0.0316987908406655: 279
+0.3228858314514077: 179
+0.6140728720621499: 140
+
+ItemsClickedPerSession:
+Type: categorical_numeric
+Number of unique values: 284
+Top 5 value counts:
+0.0: 4613
+0.1952516790721093: 477
+2.3922118055884933: 454
+0.8229545723625048: 308
+1.4506574656529003: 167

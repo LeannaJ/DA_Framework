@@ -1,0 +1,38 @@
+Analysis of Interaction Terms:
+
+
+Correlations for AvgTimePerClick_AvgPriceClicked_interaction:
+Top 5 strongest correlations:
+- AvgTimePerClick: 0.451
+- AvgPriceClicked: 0.415
+- AvgTimePerSession: 0.280
+- ItemsClickedPerSession_AvgPriceClicked_interaction: 0.253
+
+--------------------------------------------------
+
+Correlations for ItemsClickedPerSession_AvgPriceClicked_interaction:
+Top 5 strongest correlations:
+- ItemsClickedPerSession: 0.470
+- AvgPriceClicked: 0.390
+- AvgTimePerClick_AvgPriceClicked_interaction: 0.253
+- AvgTimePerSession: 0.251
+
+--------------------------------------------------
+
+Correlations for SessionCount_PctSessionPurchase_interaction:
+Top 5 strongest correlations:
+- SessionCount: 0.216
+- PctSessionPurchase: 0.113
+- AvgTimePerSession_PctSessionPurchase_interaction: 0.063
+- AvgTimePerSession: 0.041
+
+--------------------------------------------------
+
+Correlations for AvgTimePerSession_PctSessionPurchase_interaction:
+Top 5 strongest correlations:
+- AvgTimePerSession: 0.641
+- PctSessionPurchase: 0.491
+- AvgTimePerClick: 0.390
+- ItemsClickedPerSession: 0.381
+
+--------------------------------------------------

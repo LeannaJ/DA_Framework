@@ -1,0 +1,136 @@
+Zero Value Analysis:
+
+SessionCount:
+Zero Count: 5016
+Zero Percentage: 66.44%
+Non-zero Statistics:
+count: 2534.0
+mean: 1.203871602597719
+std: 0.786217011595767
+min: 0.2063460542897751
+25%: 0.491000304223596
+50%: 1.0603088040912378
+75%: 2.198925803826522
+max: 2.198925803826522
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+- Limited unique values - might be categorical in nature
+
+PctSessionPurchase:
+Zero Count: 4617
+Zero Percentage: 61.15%
+Non-zero Statistics:
+count: 2933.0
+mean: 0.63856365418371
+std: 0.34766315078222115
+min: 0.0010493903203261
+25%: 0.2381225123058239
+50%: 0.6530004742592259
+75%: 1.0
+max: 1.0
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+
+ClicksPerSession:
+Zero Count: 4552
+Zero Percentage: 60.29%
+Non-zero Statistics:
+count: 2998.0
+mean: 1.004577566898916
+std: 0.8229530711516218
+min: 0.0005001793882555
+25%: 0.3228858314514077
+50%: 0.759666392367521
+75%: 1.706024274352433
+max: 2.371591175000057
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+
+ItemsClickedPerSession:
+Zero Count: 4613
+Zero Percentage: 61.10%
+Non-zero Statistics:
+count: 2937.0
+mean: 1.031839377172814
+std: 0.803642280153232
+min: 0.0021123270973098
+25%: 0.2998688281630761
+50%: 0.8229545723625048
+75%: 1.6598917632071308
+max: 2.3922118055884933
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+
+AvgTimePerClick:
+Zero Count: 4836
+Zero Percentage: 64.05%
+Non-zero Statistics:
+count: 2714.0
+mean: 1.132557439927354
+std: 0.7889746206315733
+min: 0.0022936448350286
+25%: 0.40247474261570576
+50%: 1.0079284633689163
+75%: 2.1042305280497957
+max: 2.203868595027026
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+
+AvgTimePerSession:
+Zero Count: 4771
+Zero Percentage: 63.19%
+Non-zero Statistics:
+count: 2779.0
+mean: 1.0914863705893927
+std: 0.8362639625570356
+min: 0.0003166043078512
+25%: 0.353492494321307
+50%: 0.8661717326744212
+75%: 1.8569016579577176
+max: 2.388449923561194
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+
+AvgPriceClicked:
+Zero Count: 4183
+Zero Percentage: 55.40%
+Non-zero Statistics:
+count: 3367.0
+mean: 0.876367211068472
+std: 0.7342461368708276
+min: 0.0001781695463326
+25%: 0.29704411157228006
+50%: 0.6584906184169109
+75%: 1.2741662506507938
+max: 2.357141393222859
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues
+
+PctSessionClickDiscount:
+Zero Count: 3083
+Zero Percentage: 40.83%
+Non-zero Statistics:
+count: 4467.0
+mean: 0.6936510958530967
+std: 0.28584889094427424
+min: 0.0002365549513239
+25%: 0.5582330495642137
+50%: 0.8566962917086443
+75%: 0.8566962917086443
+max: 0.8566962917086443
+Potential Issues:
+
+PctSessionPurchaseDiscount:
+Zero Count: 4883
+Zero Percentage: 64.68%
+Non-zero Statistics:
+count: 2667.0
+mean: 0.6978246020228724
+std: 0.35162244749345223
+min: 0.0052911162985626
+25%: 0.3820101907888033
+50%: 1.0
+75%: 1.0
+max: 1.0
+Potential Issues:
+- High proportion of zeros (>50%) - might indicate inactive users or data collection issues

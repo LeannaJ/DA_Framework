@@ -1,0 +1,61 @@
+Summary Statistics:
+
+UserID:
+mode: 000549077743D83B
+
+SessionCount:
+mode: 0.0
+
+PctSessionPurchase:
+mean: 0.24806717850606905
+median: 0.0
+std: 0.3792459142719349
+min: 0.0
+max: 1.0
+percentiles: {0.25: 0.0, 0.5: 0.0, 0.75: 0.6530004742592259}
+
+ClicksPerSession:
+mode: 0.0
+
+ItemsClickedPerSession:
+mode: 0.0
+
+AvgTimePerClick:
+mean: 0.4071206479420978
+median: 0.0
+std: 0.7204789754806293
+min: 0.0
+max: 2.203868595027026
+percentiles: {0.25: 0.0, 0.5: 0.0, 0.75: 0.5012999793194356}
+
+AvgTimePerSession:
+mean: 0.4017537250156188
+median: 0.0
+std: 0.7310899883732803
+min: 0.0
+max: 2.388449923561194
+percentiles: {0.25: 0.0, 0.5: 0.0, 0.75: 0.47027551750598573}
+
+AvgPriceClicked:
+mean: 0.39082495359835046
+median: 0.0
+std: 0.6558753954082547
+min: 0.0
+max: 2.357141393222859
+percentiles: {0.25: 0.0, 0.5: 0.0, 0.75: 0.5408130044996313}
+
+PctSessionClickDiscount:
+mean: 0.4104025755199712
+median: 0.309513680563339
+std: 0.40571028973151324
+min: 0.0
+max: 0.8566962917086443
+percentiles: {0.25: 0.0, 0.5: 0.309513680563339, 0.75: 0.8566962917086443}
+
+PctSessionPurchaseDiscount:
+mean: 0.24650307464834448
+median: 0.0
+std: 0.3936126526720734
+min: 0.0
+max: 1.0
+percentiles: {0.25: 0.0, 0.5: 0.0, 0.75: 0.5646618603630981}

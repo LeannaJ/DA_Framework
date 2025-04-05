@@ -1,0 +1,37 @@
+Binary Flags Summary:
+
+has_sessioncount:
+1 (Non-zero): 2534 (33.56%)
+0 (Zero): 5016 (66.44%)
+
+has_pctsessionpurchase:
+1 (Non-zero): 2933 (38.85%)
+0 (Zero): 4617 (61.15%)
+
+has_clickspersession:
+1 (Non-zero): 2998 (39.71%)
+0 (Zero): 4552 (60.29%)
+
+has_itemsclickedpersession:
+1 (Non-zero): 2937 (38.90%)
+0 (Zero): 4613 (61.10%)
+
+has_avgtimeperclick:
+1 (Non-zero): 2714 (35.95%)
+0 (Zero): 4836 (64.05%)
+
+has_avgtimepersession:
+1 (Non-zero): 2779 (36.81%)
+0 (Zero): 4771 (63.19%)
+
+has_avgpriceclicked:
+1 (Non-zero): 3367 (44.60%)
+0 (Zero): 4183 (55.40%)
+
+has_pctsessionclickdiscount:
+1 (Non-zero): 4467 (59.17%)
+0 (Zero): 3083 (40.83%)
+
+has_pctsessionpurchasediscount:
+1 (Non-zero): 2667 (35.32%)
+0 (Zero): 4883 (64.68%)

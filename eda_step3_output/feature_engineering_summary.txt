@@ -1,0 +1,47 @@
+Feature Engineering Summary:
+
+Original Features:
+- SessionCount
+- PctSessionPurchase
+- ClicksPerSession
+- ItemsClickedPerSession
+- AvgTimePerClick
+- AvgTimePerSession
+- AvgPriceClicked
+- PctSessionClickDiscount
+- PctSessionPurchaseDiscount
+- SessionCount_log
+- ClicksPerSession_log
+- ItemsClickedPerSession_log
+- AvgTimePerClick_log
+- AvgTimePerSession_log
+- AvgPriceClicked_log
+
+Dropped Features:
+- SessionCount_log
+- PctSessionPurchaseDiscount
+- ClicksPerSession
+- ClicksPerSession_log
+- ItemsClickedPerSession_log
+- AvgTimePerClick_log
+- AvgTimePerSession_log
+- AvgPriceClicked_log
+
+New Interaction Terms:
+- AvgTimePerClick_AvgPriceClicked_interaction
+- ItemsClickedPerSession_AvgPriceClicked_interaction
+- SessionCount_PctSessionPurchase_interaction
+- AvgTimePerSession_PctSessionPurchase_interaction
+
+Final Feature Set:
+- SessionCount
+- PctSessionPurchase
+- ItemsClickedPerSession
+- AvgTimePerClick
+- AvgTimePerSession
+- AvgPriceClicked
+- PctSessionClickDiscount
+- AvgTimePerClick_AvgPriceClicked_interaction
+- ItemsClickedPerSession_AvgPriceClicked_interaction
+- SessionCount_PctSessionPurchase_interaction
+- AvgTimePerSession_PctSessionPurchase_interaction

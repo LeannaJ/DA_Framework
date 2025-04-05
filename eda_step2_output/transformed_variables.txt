@@ -1,0 +1,8 @@
+Variables that were log-transformed (skewness > 1.5):
+
+SessionCount: skewness = 1.67
+ClicksPerSession: skewness = 1.80
+ItemsClickedPerSession: skewness = 1.80
+AvgTimePerClick: skewness = 1.64
+AvgTimePerSession: skewness = 1.80
+AvgPriceClicked: skewness = 1.85
