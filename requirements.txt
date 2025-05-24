@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+langchain
+openai
+huggingface_hub
+werkzeug
+python-dotenv
+langchain-community
