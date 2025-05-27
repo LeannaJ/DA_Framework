@@ -1,4 +1,4 @@
-# AI Agent for Automated Data Analysis (Ongoing) 🤖
+# AI Agent for Automated Data Analysis 🤖
 
 This project explores the use of large language models (LLMs) and Retrieval-Augmented Generation (RAG) to augment the end-to-end workflow of a data analyst. By integrating Cursor's AI agent, LangChain, and modular prompt chaining, we aim to automate rule-based tasks while enabling human judgment where necessary—leading to a more efficient and human-centered analysis process.
 
